@@ -1,0 +1,6 @@
+market1501数据集：
+https://www.kaggle.com/datasets/whurobin/market1501
+mot16数据集：
+https://motchallenge.net/data/MOT16/
+运行命令
+python deepsort.py --VIDEO_PATH [VIDEO_PATH] --config_detection ./configs/yolov3.yaml
